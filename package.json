@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/TimFenwick15/coolbeespicnic/issues"
   },
-  "homepage": "https://github.com/TimFenwick15/coolbeespicnic#readme"
+  "homepage": "https://github.com/TimFenwick15/coolbeespicnic#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.16"
+  }
 }
