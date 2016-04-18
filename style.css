@@ -1,0 +1,53 @@
+p {
+    color:blue;
+}
+
+#jigglypuff {
+    //display:flex;
+    //justify-content:flex-end;
+    float:right;
+    color:pink;
+}
+
+#charizard {
+    width:100%;
+    display:inline-block;
+    text-align:center;
+    position:fixed;
+    color:red;
+}
+
+#megaShinka {
+    color:blue;
+}
+
+#link {
+    color:blue
+}
+
+#charizardite {
+    color:blue;
+}
+
+#bulbasaur, #ivysaur {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+}
+#bulbasaur:hover .grass {
+    display: block;
+}
+#ivysaur:hover .fire {
+    display: block;
+}
+.grass {
+        display: none;
+}
+.fire {
+        display: none;
+}
+
+body {
+    background-color:black;
+    font: 32px calibri, sans-serif;
+}
