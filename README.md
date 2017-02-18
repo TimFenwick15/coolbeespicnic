@@ -1,2 +1,1 @@
-# coolbeespicnic
 Practice site
